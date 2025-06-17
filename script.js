@@ -49,8 +49,10 @@ setInterval(createChip, 250);
 document.addEventListener("DOMContentLoaded", () => {
   const whatsappButton = document.getElementById("whatsapp-button");
 
-  const links = [
-    "https://wa.link/ddrw6q", // 011-6963-9808
+    const links = [
+   // "https://wa.link/ddrw6q", // 011-6963-9808
+      "https://wa.link/o3sylq", // 011-6964-0041
+  ];
   ];
 
   const randomIndex = Math.floor(Math.random() * links.length);
