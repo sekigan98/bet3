@@ -211,6 +211,19 @@ footer a:hover {
   }
 }
 
+.benefits {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  font-size: 1.1rem;
+}
+
+.benefits li {
+  margin-bottom: 8px;
+  text-align: left;
+  padding-left: 1em;
+}
+
 /* Responsive design */
 @media (max-width: 580px) {
   .logo {
